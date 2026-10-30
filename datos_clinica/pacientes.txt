@@ -1,0 +1,3 @@
+DNI;70000001;Ana María;Torres Rojas;1990-05-14;987654321;false
+DNI;70000002;Luis;Vargas Díaz;1985-11-02;999888777;true
+CE;123456789;Carla;Mendoza Ruiz;2001-03-27;955512345;true
